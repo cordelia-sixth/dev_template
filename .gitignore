@@ -3,6 +3,4 @@
 /mysql/*
 !.gitignore
 
-/rails/public/uploads
-
 .env
